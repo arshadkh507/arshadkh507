@@ -1,10 +1,10 @@
-![Cover Image](https://github.com/arshadkh507/arshadkh507.github.io/blob/cf9857a09b92ec0667b41b3fa2e99997cb5933cb/assets/images/Copy%20of%20Frontend%20Web%20Developer%20(ReactJS).png)
+![Cover Image](https://github.com/arshadkh507/arshadkh507.github.io/blob/main/assets/images/github%20background%20v3.jpg)
 
 ## Hi there 👋
 
 # Arshad Khan - Frontend Web Developer (ReactJs)
 
-Welcome to my GitHub corner! 👋, I'm Arshad Khan, a passionate frontend web developer based in Karak, KPK, Pakistan. 
+Welcome to my GitHub corner! 👋, I'm Arshad Khan, a passionate frontend web developer based in Karak, KPK, Pakistan.
 I'm on a mission to craft beautiful and user-friendly web experiences using the power of ReactJS.
 
 <div align="center">
@@ -15,25 +15,24 @@ I'm on a mission to craft beautiful and user-friendly web experiences using the 
    <img align="right" width="400" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif" alt="illustration">
 </div>
 
-
 ## Tech Stack 🛠️
 
 ### Languages and Frameworks:
-- ![HTML5](https://img.icons8.com/color/50/000000/html-5.png) 
-  ![CSS3](https://img.icons8.com/color/50/000000/css3.png) 
+
+- ![HTML5](https://img.icons8.com/color/50/000000/html-5.png)
+  ![CSS3](https://img.icons8.com/color/50/000000/css3.png)
   ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)
 - ![ReactJS](https://img.icons8.com/plasticine/50/000000/react.png)
 
 ### Tools and Basic Knowledge Of:
+
 - ![Git](https://img.icons8.com/color/50/000000/git.png)
-  ![GitHub](https://img.icons8.com/ios/50/000000/github.png) 
+  ![GitHub](https://img.icons8.com/ios/50/000000/github.png)
   ![Figma](https://img.icons8.com/ios/50/000000/figma.png)
-- ![Node.js](https://img.icons8.com/color/50/000000/nodejs.png) 
-  ![Postman](https://img.icons8.com/dusk/50/000000/postman-api.png) 
-  ![MongoDB](https://img.icons8.com/color/50/000000/mongodb.png) 
+- ![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)
+  ![Postman](https://img.icons8.com/dusk/50/000000/postman-api.png)
+  ![MongoDB](https://img.icons8.com/color/50/000000/mongodb.png)
   ![SQL](https://img.icons8.com/dusk/50/000000/sql.png)
-
-
 
 ## Projects 🚀
 
@@ -78,8 +77,6 @@ I'm on a mission to craft beautiful and user-friendly web experiences using the 
     <img src="https://img.shields.io/badge/SQL-003366?style=flat-square&logo=sql&logoColor=white" alt="SQL">
 </p>
 
-
-
 ## Internship Search 🔍
 
 - 🔭 I’m currently exploring internship opportunities in Frontend Web Development or ReactJS Development.
@@ -91,13 +88,12 @@ I'm on a mission to craft beautiful and user-friendly web experiences using the 
 ## Let's Connect! 🌐
 
 - **[<img src="https://img.icons8.com/ios/30/000000/linkedin.png"/>](https://www.linkedin.com/in/arshadkh507/)**
- **[<img src="https://img.icons8.com/ios/30/000000/facebook.png"/>](https://web.facebook.com/code.master.arshad/)**
-   **[<img src="https://img.icons8.com/ios/30/000000/whatsapp.png"/>](https://wa.link/n2mxr9)**
-  **[<img src="https://img.icons8.com/ios/30/000000/globe.png"/>](https://arshadkh507.github.io./)**
-  <!-- <img src="https://img.icons8.com/ios/30/000000/gmail.png"/>  -->
+**[<img src="https://img.icons8.com/ios/30/000000/facebook.png"/>](https://web.facebook.com/code.master.arshad/)**
+**[<img src="https://img.icons8.com/ios/30/000000/whatsapp.png"/>](https://wa.link/n2mxr9)**
+**[<img src="https://img.icons8.com/ios/30/000000/globe.png"/>](https://arshadkh507.github.io./)**
+ <!-- <img src="https://img.icons8.com/ios/30/000000/gmail.png"/>  -->
 - **[arshadkh507@gmail.com](mailto:arshadkh507@gmail.com)**
 - **[+923435439569](tel:+923435439569)**
-
 
 ## Looking Forward 🚀
 
