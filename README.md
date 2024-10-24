@@ -2,99 +2,70 @@
 
 ## Hi there 👋
 
-# Arshad Khan - Frontend Web Developer (ReactJs)
+## Arshad Khan - Frontend Web Developer (ReactJs)
 
-Welcome to my GitHub corner! 👋, I'm Arshad Khan, a passionate frontend web developer based in Karak, KPK, Pakistan.
-I'm on a mission to craft beautiful and user-friendly web experiences using the power of ReactJS.
+Welcome to my GitHub corner! 👋, I’m 𝗔𝗿𝘀𝗵𝗮𝗱 𝗞𝗵𝗮𝗻, a software engineer and 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲 from Khushal Khan Khattak University Karak, Pakistan. I have over 𝘁𝘄𝗼 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 as a 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, building and enhancing web applications. I can easily design smooth, responsive, and attractive websites.
 
-<div align="center">
-  <p align="left">
-    <strong><b>About Me</b> 🚀</strong><br><br>
-    I'm not just a developer; I'm a storyteller who brings ideas to life through code. With a keen eye for design and a heart for innovation, I specialize in creating responsive and intuitive web applications. My journey began in 2019, and since then, I've been on an exciting ride of continuous learning and exploration.
-  </p>
-   <img align="right" width="400" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif" alt="illustration">
-</div>
+Additionally, I am skilled in creating 𝗥𝗘𝗦𝗧𝗳𝘂𝗹 𝗔𝗣𝗜𝘀 with 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀 and integrating third-party libraries and APIs into ReactJS applications. Currently, I’m focused on further improving my skills in the 𝗠𝗘𝗥𝗡 𝘀𝘁𝗮𝗰𝗸. You can view my 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 for more details on my skills and the projects I’ve completed.
 
-## Tech Stack 🛠️
+I’m always eager to learn, grow, and contribute as part of a team in a 𝘤𝘰𝘮𝘱𝘦𝘵𝘪𝘵𝘪𝘷𝘦 𝘦𝘯𝘷𝘪𝘳𝘰𝘯𝘮𝘦𝘯𝘵.
 
-### Languages and Frameworks:
+## Skills
 
-- ![HTML5](https://img.icons8.com/color/50/000000/html-5.png)
-  ![CSS3](https://img.icons8.com/color/50/000000/css3.png)
-  ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)
-- ![ReactJS](https://img.icons8.com/plasticine/50/000000/react.png)
-
-### Tools and Basic Knowledge Of:
-
-- ![Git](https://img.icons8.com/color/50/000000/git.png)
-  ![GitHub](https://img.icons8.com/ios/50/000000/github.png)
-  ![Figma](https://img.icons8.com/ios/50/000000/figma.png)
-- ![Node.js](https://img.icons8.com/color/50/000000/nodejs.png)
-  ![Postman](https://img.icons8.com/dusk/50/000000/postman-api.png)
-  ![MongoDB](https://img.icons8.com/color/50/000000/mongodb.png)
-  ![SQL](https://img.icons8.com/dusk/50/000000/sql.png)
-
-## Projects 🚀
-
-- **Roadmap CodeCamp:** A React-based platform providing clear roadmaps and guidance for beginners in programming.
-  [![Visit](https://img.icons8.com/ios/30/000000/external-link.png)](https://roadmapcodecamp-frontend.netlify.app/)
-
-- **Image Gallery:** Responsive ReactJS Image Gallery with Pixabay API, Tailwind CSS, and dynamic UI features.
-  [![Visit](https://img.icons8.com/ios/30/000000/external-link.png)](https://image-gallery-arshadkh507.netlify.app/)
-
-- **Taskmate-Todo App:** A powerful ReactJS Todo App with key CRUD functionalities & LocalStorage integration for anytime access.
-  [![Visit](https://img.icons8.com/ios/30/000000/external-link.png)](https://arshadkh507-todo-app.netlify.app/)
-
-## Things I Code With 🛠️
+### Frontend:
 
 <p align="left">
-    <!-- HTML -->
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-    <!-- CSS -->
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-    <!-- JavaScript -->
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-    <!-- Bootstrap -->
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <!-- Git -->
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-    <!-- GitHub -->
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-    <!-- ReactJS -->
-    <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS">
-    <!-- Figma -->
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/plasticine/50/000000/react.png" alt="ReactJS"/>
+  <img src="https://img.icons8.com/color/50/000000/tailwind_css.png" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/50/000000/redux.png" alt="Redux"/>
+  <img src="https://img.icons8.com/color/50/000000/api-settings.png" alt="RTK Query"/>
+  <img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React Router DOM"/>
 </p>
+
+
+### Backend:
 
 <p align="left">
-    <!-- Node.js -->
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-    <!-- Postman -->
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-    <!-- MongoDB -->
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-    <!-- SQL -->
-    <img src="https://img.shields.io/badge/SQL-003366?style=flat-square&logo=sql&logoColor=white" alt="SQL">
+  <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/50/000000/express.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/fluency/50/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="MongoDB"/>
 </p>
 
-## Internship Search 🔍
+### Other:
 
-- 🔭 I’m currently exploring internship opportunities in Frontend Web Development or ReactJS Development.
-- 🌱 I’m eager to learn and contribute to innovative projects that push the boundaries of web development.
-- 👯 I’m looking to collaborate on open-source projects and initiatives that align with my passion for web technologies.
-- 💬 Ask me about my experiences, projects, or anything related to web development and ReactJS.
-- 📫 How to reach me: Feel free to connect on [LinkedIn](https://www.linkedin.com/in/arshadkh507/) or drop me an email at arshadkh507@gmail.com.
+<p align="left">
+  <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/dusk/50/000000/postman-api.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/50/000000/figma.png" alt="Figma"/>
+  <img src="https://img.icons8.com/fluency/50/000000/information.png" alt="IELTS/English"/>
+</p>
 
-## Let's Connect! 🌐
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **[<img src="https://img.icons8.com/ios/30/000000/linkedin.png"/>](https://www.linkedin.com/in/arshadkh507/)**
-**[<img src="https://img.icons8.com/ios/30/000000/facebook.png"/>](https://web.facebook.com/code.master.arshad/)**
-**[<img src="https://img.icons8.com/ios/30/000000/whatsapp.png"/>](https://wa.link/n2mxr9)**
-**[<img src="https://img.icons8.com/ios/30/000000/globe.png"/>](https://arshadkh507.github.io./)**
- <!-- <img src="https://img.icons8.com/ios/30/000000/gmail.png"/>  -->
-- **[arshadkh507@gmail.com](mailto:arshadkh507@gmail.com)**
-- **[+923435439569](tel:+923435439569)**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arshadkh507&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arshadkh507&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadkh507&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Looking Forward 🚀
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arshadkh507&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-I'm open to exciting opportunities and collaborations. Whether you're here for inspiration, collaboration, or just to connect, feel free to explore and drop me a message. Let's create something amazing together! 🌟
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arshadkh507&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🌐 Portfolio:
+[View My Portfolio](https://arshadkh507.github.io/)
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/code.master.arshad) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshadkh507)
+
+---
+[![](https://visitcount.itsvg.in/api?id=arshadkh507&icon=0&color=0)](https://visitcount.itsvg.in)
