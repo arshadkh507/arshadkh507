@@ -25,10 +25,7 @@ I’m always eager to learn, grow, and contribute as part of a team in a 𝘤�
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arshadkh507&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🌐 Portfolio:
-[View My Portfolio](https://arshadkh507.github.io/)
 
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/code.master.arshad) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshadkh507)
 
