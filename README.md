@@ -19,8 +19,6 @@ I’m always eager to learn, grow, and contribute as part of a team in a 𝘤�
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadkh507&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-![](https://github-profile-trophy.vercel.app/?username=arshadkh507&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ![](https://github-contributor-stats.vercel.app/api?username=arshadkh507&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
