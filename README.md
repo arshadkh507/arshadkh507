@@ -18,17 +18,16 @@ I’m always eager to learn, grow, and contribute as part of a team in a 𝘤�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshadkh507)
 
 
+
+![arshadkh507's Stats](https://github-readme-stats.vercel.app/api?username=arshadkh507&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="margin-right: 20px; flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=arshadkh507&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
   </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshadkh507&theme=dark&hide_border=false" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
-  </div>
 </div>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arshadkh507&theme=highcontrast&exclude_days=Sun)](https://git.io/streak-stats)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arshadkh507&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=arshadkh507&icon=0)](https://visitcount.itsvg.in)
